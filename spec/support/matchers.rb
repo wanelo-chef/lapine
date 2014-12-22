@@ -1,0 +1,1 @@
+ChefSpec.define_matcher :lapine_consumer
